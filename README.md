@@ -1,3 +1,6 @@
+## Design
+![](images/bjss-case-study-infra.jpeg)
+
 ## Requirements
 
 | Name | Version |
